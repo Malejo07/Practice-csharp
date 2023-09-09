@@ -40,8 +40,6 @@
             Console.WriteLine($"Tu edad es: {person.Age} años");
 
             Console.WriteLine();
-
-
         }
 
     }

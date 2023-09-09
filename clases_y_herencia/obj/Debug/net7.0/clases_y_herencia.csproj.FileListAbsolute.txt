@@ -1,0 +1,14 @@
+D:\project architec\new_copy\clases_y_herencia\bin\Debug\net7.0\clases_y_herencia.exe
+D:\project architec\new_copy\clases_y_herencia\bin\Debug\net7.0\clases_y_herencia.deps.json
+D:\project architec\new_copy\clases_y_herencia\bin\Debug\net7.0\clases_y_herencia.runtimeconfig.json
+D:\project architec\new_copy\clases_y_herencia\bin\Debug\net7.0\clases_y_herencia.dll
+D:\project architec\new_copy\clases_y_herencia\bin\Debug\net7.0\clases_y_herencia.pdb
+D:\project architec\new_copy\clases_y_herencia\obj\Debug\net7.0\clases_y_herencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\project architec\new_copy\clases_y_herencia\obj\Debug\net7.0\clases_y_herencia.AssemblyInfoInputs.cache
+D:\project architec\new_copy\clases_y_herencia\obj\Debug\net7.0\clases_y_herencia.AssemblyInfo.cs
+D:\project architec\new_copy\clases_y_herencia\obj\Debug\net7.0\clases_y_herencia.csproj.CoreCompileInputs.cache
+D:\project architec\new_copy\clases_y_herencia\obj\Debug\net7.0\clases_y_herencia.dll
+D:\project architec\new_copy\clases_y_herencia\obj\Debug\net7.0\refint\clases_y_herencia.dll
+D:\project architec\new_copy\clases_y_herencia\obj\Debug\net7.0\clases_y_herencia.pdb
+D:\project architec\new_copy\clases_y_herencia\obj\Debug\net7.0\clases_y_herencia.genruntimeconfig.cache
+D:\project architec\new_copy\clases_y_herencia\obj\Debug\net7.0\ref\clases_y_herencia.dll
